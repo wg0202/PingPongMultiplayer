@@ -22,7 +22,7 @@ A real-time multiplayer Ping Pong game for mobile browsers. Two players, two pho
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/iAlias/Ping-Pong-Multiplayer.git
+git clone https://github.com/iAlias/PingPongMultiplayer.git
 cd Ping-Pong-Multiplayer
 ```
 
