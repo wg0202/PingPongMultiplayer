@@ -29,7 +29,7 @@ const PADDLE_WIDTH = 0.02;
 const PADDLE_HEIGHT = 0.15;
 
 // Serve static files
-app.use(express.static(path.join(__dirname, '../public')));
+app.use(express.static(path.join(__dirname, 'public')));
 
 // Game state
 let gameState = {
